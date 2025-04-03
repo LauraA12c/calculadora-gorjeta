@@ -64,7 +64,7 @@ function calculate() {
            console.log("preencha tudo")
 
       }
-
+//lalinhalinda
 }
 
 function reset() {

@@ -154,7 +154,7 @@ main {
     border-radius: 1.5rem;
 
      .amount,
-     .total  {
+     .total {
          display: flex;
          justify-content: space-between;
          margin-bottom: 2rem;

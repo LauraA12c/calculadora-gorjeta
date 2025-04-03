@@ -17,8 +17,13 @@ function receiveBillValue() {
 
 function receiveNumberOfPeopleValue(){
 numberOfPeople = numberOfPeopleInput.valueAsNumber
-console.log(numberOfPeople)
+calculate()
 }
+
+function receiveTipPercentageValue (value){
+    buttonSelected = document.querySelector("")
+}
+
 
 
 function calculate(){
